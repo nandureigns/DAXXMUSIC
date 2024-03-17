@@ -16,9 +16,9 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","Jasmine_Kn01")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Kn_Musicc_BoT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "Kn_Musiicc_BoT")
 # --------------------------------------------------------
-BOT_NAME = getenv("BOT_NAME" , "knsongsss")
+BOT_NAME = getenv("BOT_NAME" , "˹Kɴ ꭙ ᴍᴜsɪᴄ˼")
 # ---------------------------------------------------------
 ASSUSERNAME = getenv("ASSUSERNAME" , "NANDAN_REIGNS")
 # ---------------------------------------------------------
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1001999850569))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 5829873302))
+OWNER_ID = int(getenv("OWNER_ID", 1404622369))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
