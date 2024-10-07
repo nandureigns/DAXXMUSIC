@@ -9,18 +9,18 @@ from pyrogram import filters
 load_dotenv()
 # ------------------------------------
 # -----------------------------------------------------
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("27283813"))
+API_HASH = getenv("6e418cbd98670968c23dd994188a2249")
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("6637660562:AAF_jCOvFV6N4V-uWx33tFyQXLe0iPy1GTI")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","Jasmine_Kn01")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Jasmine_Kn6")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "Kn_Musiicc_BoT")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "˹Kɴ ꭙ ᴍᴜsɪᴄ˼")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "NANDAN_REIGNS")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Kn_Music01")
 # ---------------------------------------------------------
 
 
@@ -38,7 +38,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 LOGGER_ID = int(getenv("LOGGER_ID", -1001999850569))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 1404622369))
+OWNER_ID = int(getenv("OWNER_ID", 6741198550))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
